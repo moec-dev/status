@@ -7,14 +7,14 @@ sites:
 
 status-website:
   cname: status.moec.dev
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/219799697
   name: MOECDEV Upptime
   introTitle: "This page showing status about **MOECDEV** Web Service."
-  introMessage: 
+  introMessage: Welcome to this page by MOECDEV! You can see all running status about MOECDEV in this page! 
   navbar:
     - title: Status
       href: /
     - title: Index
-      href: https://www.moec.dev
+      href: https://www.moec.dev/
     - title: GitHub
       href: https://github.com/moec-dev
