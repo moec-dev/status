@@ -4,17 +4,19 @@
     "url": "https://www.moec.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.moec.dev.ico",
     "slug": "index",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 772,
-    "timeWeek": 689,
-    "timeMonth": 689,
-    "timeYear": 689,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 644,
+    "timeDay": 669,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
+    "dailyMinutesDown": {
+      "2025-07-09": 21
+    }
   }
 ]
